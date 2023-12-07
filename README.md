@@ -31,6 +31,19 @@
 ```bash
 $ yarn install
 ```
+## STEPS PARA CORRER EL PROYECTO EN PRODUCCION
+  1. Dirigirse a : https://front-projects-seven.vercel.app/auth/login
+  2. Registrarse, por defecto se crea un usuario de tipo consumidor
+  3. Iniciar Sesion ( con el usuario creado o con las credenciales que se enviaron por correo)
+  
+
+
+## STEPS PARA CORRER EL PROYECTO EN DESARROLLO
+  1. Crear el entorno de desarrollo con el archivo .env
+  2. Copiar las credenciales que se adjuntan en lineas abajo
+  3. La documentacion de las apis estan en localhost:3000/docs
+  4. Crear la base de datos local en el archivo dev.sql
+  5. Yarn install
 
 ## Running the app
 
@@ -64,3 +77,21 @@ $ yarn run test:e2e
 ## EndPoint Local
   
     http://localhost:3000/
+
+
+## Credenciales
+  enviroment=production
+
+  DB_HOST=localhost
+  DB_PORT=3306
+  DB_USERNAME=root
+  DB_PASSWORD=''
+  DB_NAME=prueba
+
+  JWT_SECRET=delfosti2023@123
+
+
+
+
+
+ 
