@@ -34,7 +34,7 @@ $ yarn install
 ## STEPS PARA CORRER EL PROYECTO EN PRODUCCION
   1. Dirigirse a : https://front-projects-seven.vercel.app/auth/login
   2. Registrarse, por defecto se crea un usuario de tipo consumidor
-  3. Iniciar Sesion ( con el usuario creado o con las credenciales que se enviaron por correo)
+  3. Iniciar Sesion ( con el usuario creado o con las credenciales modo Admin : admin@gmail.com Clave: Soportep021)
   
 
 
